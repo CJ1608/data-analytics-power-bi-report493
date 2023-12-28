@@ -26,7 +26,7 @@ Created a report page for customer-level analysis, focusing on the amount of pro
 - Date slicer: to allow the user to filter results for specific date ranges 
 
 ### Create the Executive Summary Page
-- Created a report page for a high-level summary of the company’s performance that focuses on checking outcomes against key targets. The following visuals were created for the report:
+Created a report page for a high-level summary of the company’s performance that focuses on checking outcomes against key targets. The following visuals were created for the report:
 - Card visuals: show key information about revenue, profit and orders 
 - Charts: show trends in revenue by country, store type, product category and by date
 - KPI visuals: show progress towards meeting targets for revenue, order numbers and profit based on each fiscal quarter
