@@ -3,6 +3,7 @@
 ## Project Description:
 Project to gather, clean and analyse information and then turn it into PowerBI reports. 
 
+## Breakdown of Project:
 ### Import Data into PowerBI
 Imported 3 different data sources from Azure SQL Database, Azure Blob Storage and CSV files. Apart from changing the data type and renaming columns to meet the naming convention, I used the following tools to get the data into the needed format:
 - Remove columns: remove sensitive information like card number or anything that could affect GDPR. 
