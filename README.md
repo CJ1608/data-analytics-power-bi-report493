@@ -23,7 +23,9 @@ Created a report page for customer-level analysis, focusing on the amount of pro
 - Card visuals: show key information clearly like total revenue by customer
 - Tables: show detailed information about each customer to understand customer base 
 - Charts: show trends in customer spending based on country and product category
-- Date slicer: to allow the user to filter results for specific date ranges 
+- Date slicer: to allow the user to filter results for specific date ranges
+![cust det](https://github.com/CJ1608/data-analytics-power-bi-report493/assets/128046995/ec7685af-a75d-4c1a-a78c-16a9d38e0971)
+
 
 ### Create the Executive Summary Page
 Created a report page for a high-level summary of the company’s performance that focuses on checking outcomes against key targets. The following visuals were created for the report:
@@ -41,6 +43,8 @@ The following visuals were created for the report:
 - Charts: show patterns in sale date and revenue from each product category
 - Table: show more details for highest-revenue products
 - Graph: show profit from each product category and which products were the most successful in each category
+![prod de](https://github.com/CJ1608/data-analytics-power-bi-report493/assets/128046995/d37a3ed6-c1bb-49bf-b62c-534bb27c08a4)
+
 
 ### Create the Stores Map Page
 Created a ‘Stores Map’ report page that is used to filter the information shown on the ‘Stores Drillthrough’ page, focusing on the profitability and financial targets of the selected store. 
@@ -54,6 +58,10 @@ The following visuals were created for the Stores Drillthrough page:
 - Table: show details for the 5 products with the highest revenue
 - Charts: showing the number of orders for each product category
 - Gauge visuals: show profit and revenue against targets
+![st map](https://github.com/CJ1608/data-analytics-power-bi-report493/assets/128046995/16e1fae9-3a2f-48c2-8cb6-a1b2fa24fec9)
+![st drill](https://github.com/CJ1608/data-analytics-power-bi-report493/assets/128046995/378e371e-ef5e-4f0e-b0d8-3c0bd94677e3)
+![st tool](https://github.com/CJ1608/data-analytics-power-bi-report493/assets/128046995/33be641d-a2f7-4b08-b7a0-cf9bccb6ca4a)
+
 
 ### Cross Filtering and Navigation
 Cross Filtering: 
