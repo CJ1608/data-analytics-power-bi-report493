@@ -30,6 +30,8 @@ Created a report page for a high-level summary of the company’s performance th
 - Card visuals: show key information about revenue, profit and orders 
 - Charts: show trends in revenue by country, store type, product category and by date
 - KPI visuals: show progress towards meeting targets for revenue, order numbers and profit based on each fiscal quarter
+![image](https://github.com/CJ1608/data-analytics-power-bi-report493/assets/128046995/c0c55e7f-4531-4af1-9e32-1dbb3352e342)
+
 
 ### Create the Product Detail Page
 Created a report page focusing on product details and how product category and store location affect the overall profit. A slicer toolbar was also made to make it easier to filter the products without cluttering the main report page, making it easier for the user to filter results by location and product category. 
